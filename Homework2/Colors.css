@@ -2,4 +2,10 @@
   font-weight: bold;
   color: green;
   background-color: yellow;
+  text-decoration: underline;
+}
+.time {
+  font-size: 64px;
+  background-color: yellow
+  color: navy;
 }
