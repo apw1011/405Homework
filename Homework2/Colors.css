@@ -1,10 +1,12 @@
+{
+  background-color: yellow;
+}
+
 .first {
   font-weight: bold;
   color: green;
-  background-color: yellow;
   text-decoration: underline;
 }
 .time {
-  background-color: yellow;
   color: navy;
 }
