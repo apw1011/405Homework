@@ -2,7 +2,7 @@
 {
   background: yellow;
 }
-.firstone {
+.one {
   font-weight: bold;
   color: green;
   text-decoration: underline;
@@ -10,7 +10,11 @@
 .time {
   color: navy;
 }
-.this{
+.this {
   height: 590px;
   width: 590px;
+}
+#recipe {
+  color: navy;
+  font-weight: bold;
 }
