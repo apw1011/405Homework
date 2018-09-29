@@ -1,6 +1,6 @@
 
 {
-  background-color: yellow;
+  background: yellow;
 }
 .firstone {
   font-weight: bold;
@@ -10,7 +10,7 @@
 .time {
   color: navy;
 }
-.before{
+.one{
   height: 600px;
   width: 600px;
 }
