@@ -7,3 +7,9 @@
   color: green;
   font-size: 24px;
 }
+#total {
+  color: teal;
+  font-weight: bold;
+  font-size: 36px;
+  font-family: serif;
+}
