@@ -2,7 +2,11 @@
   font-size: 64px;
   color: maroon;
 }
-
+.letters {
+  color: navy;
+  font-size: 32px;
+  font-family: sans-serif;
+}
 
 .ingredients {
   color: navy;
