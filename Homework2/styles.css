@@ -14,14 +14,14 @@
 }
 .letters{
   color: navy;
-  font-size: 24px;
+  font-size: 32px;
   font-family: sans-serif;
 }
 table{
   border: 3px solid #333;
 }
 td{
-  border: 1px solid #333;
+  border: 2px solid #333;
 }
 #total{
   color: teal;
@@ -30,7 +30,7 @@ td{
   font-family: serif;
   background color: lime;
 }
-.frame{
+img{
   width: 200px;
   height: auto;
 }
