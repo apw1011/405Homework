@@ -1,26 +1,27 @@
+* {
+  back-ground color: #f0e68c;
+}
+
 #topper {
   font-size: 64px;
   color: maroon;
+  text-decoration: underline;
 }
 .letters {
   color: navy;
-  font-size: 32px;
+  font-size: 24px;
   font-family: sans-serif;
 }
-
-.ingredients {
-  color: navy;
-  font-size: 64px;
-  text-decoration: underline;
+table {
+  border: 3px solid #333;
 }
-.cost {
-  color: green;
-  font-size: 24px;
+td {
+  border: 1px solid #333;
 }
 #total {
   color: teal;
   font-weight: bold;
-  font-size: 36px;
+  font-size: 32px;
   font-family: serif;
 }
 .frame {
