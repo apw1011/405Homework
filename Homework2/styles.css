@@ -26,10 +26,14 @@ td{
 #total{
   color: teal;
   font-weight: bold;
-  font-size: 48px;
-  background-color: lime;
+  font-size: 32px;
+  font-family: fantasy;
 }
 img{
   width: 300px;
   height: auto;
+}
+#backs{
+  font-size: 64px;
+  color: maroon;
 }
