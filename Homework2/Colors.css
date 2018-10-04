@@ -9,11 +9,11 @@
 }
 .time{
   color: navy;
-  font-weight: 32px;
+  font-weight: 600;
 }
 #recipe{
   color: navy;
-  font-weight: normal;
+  font-weight: 600;
 }
 table,
 td{
