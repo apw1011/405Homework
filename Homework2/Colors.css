@@ -3,17 +3,17 @@
   background-color: #f0e68c;
 }
 .one{
-  font-weight: bold;
+  font-weight: bolder;
   color: green;
   text-decoration: underline;
 }
 .time{
   color: navy;
-  font-weight: 600;
+  font-weight: bold;
 }
 #recipe{
   color: navy;
-  font-weight: 600;
+  font-weight: bold;
 }
 table,
 td{
