@@ -2,7 +2,7 @@
 *{
   background-color: #f0e68c;
 }
-.one{
+.one {
   font-weight: bolder;
   color: green;
   text-decoration: underline;
@@ -22,8 +22,12 @@ td {
   color: teal;
   font-weight: 500;
 }
-thead{
+thead {
   background-color: #333;
   color: teal;
   font-weight: 500;
+}
+#backs {
+  font-size: 48px;
+  color: maroon
 }
