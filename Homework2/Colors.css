@@ -11,16 +11,17 @@
 #time {
   color: navy;
   font-weight: bold;
+  font-size: 48px;
 }
 .recipe {
   color: navy;
   font-weight: bold;
+  font-size: 48px;
 }
 table,
 td {
   border: 1px solid #333;
   color: teal;
-  font-weight: 500;
 }
 thead {
   background-color: #333;
@@ -29,5 +30,5 @@ thead {
 }
 #backs {
   font-size: 48px;
-  color: maroon
+  color: maroon;
 }
