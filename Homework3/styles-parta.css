@@ -39,7 +39,8 @@ html {
 
 .card header {
   background-color: pink;
-  padding: .15em;
+  padding-bottom: .15em;
+  padding-top: .05em;
 }
 
 .card {
