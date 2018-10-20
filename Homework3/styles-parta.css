@@ -33,7 +33,7 @@ html {
 
 .card footer {
   background-color: pink;
-  padding-bottom: 5em;
+  padding-bottom: 2em;
   overflow: hidden;
 }
 
@@ -45,7 +45,7 @@ html {
 
 .card {
   font-size: 1em;
-  padding-top: 0;
+  padding-top: 0em;
 }
 
 
