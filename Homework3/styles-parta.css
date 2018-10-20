@@ -33,20 +33,19 @@ html {
 
 .card footer {
   background-color: pink;
-  padding-bottom: 2.25em;
+  padding-bottom: 5em;
   overflow: hidden;
 }
 
 .card header {
   background-color: pink;
-  padding-bottom: 0;
+  padding-bottom: .05em;
   padding-top: .05em;
 }
 
 .card {
   font-size: 1em;
-  padding-top: .05em;
-  padding-top background-color: pink;
+  padding-top: 0;
 }
 
 
