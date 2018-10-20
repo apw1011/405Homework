@@ -40,7 +40,7 @@ html {
 
 
 
- .tough {
+#harder  {
 
   width: 35em;
 
@@ -48,7 +48,7 @@ html {
 
   margin: 5em auto;
 
-  background-colour: red;
+  background-color: red;
 
   border: 0.2em solid black;
 
