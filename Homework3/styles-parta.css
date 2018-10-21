@@ -16,6 +16,7 @@ html {
   background-color: pink;
   padding-bottom: 2em;
   overflow: hidden;
+  font-size: 20px;
 }
 .card header {
   background-color: pink;
