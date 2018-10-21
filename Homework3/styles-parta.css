@@ -14,7 +14,7 @@ html {
 }
 .card footer {
   background-color: pink;
-  padding-bottom: 2em;
+  padding-bottom: 0;
   overflow: hidden;
   font-size: 15px;
 }
