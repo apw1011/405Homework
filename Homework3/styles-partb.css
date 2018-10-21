@@ -6,13 +6,13 @@ p {
   border-style: solid;
   border-radius: 2.5rem;
   border-color: maroon;
-  width: 250px;
+  width: 200px;
   height: 100px;
   align-content: center;
   background-color: red;
   padding-top: 25px;
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-left: 45px;
+  padding-right: 15px;
   color: pink;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
