@@ -10,9 +10,9 @@ p {
   height: 100px;
   align-content: center;
   background-color: red;
-  padding-top: 25px;
-  padding-left: 35px;
-  padding-right: 5px;
+  padding-top: 40px;
+  padding-left: 15px;
+  padding-right: 15px;
   color: pink;
   font-size: 1.5rem;
 }
