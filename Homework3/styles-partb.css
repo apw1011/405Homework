@@ -9,7 +9,7 @@ p {
   width: 250px;
   height: 100px;
   align-content: center;
-  align-content: space-around;
+  background-color: red;
   color: pink;
   font-size: 1.5rem;
 }
