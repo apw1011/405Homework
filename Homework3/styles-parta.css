@@ -20,7 +20,7 @@ html {
 .card header {
   background-color: pink;
   padding-bottom: .05em;
-  padding-top: .05em;
+  padding-top: 0;
 }
 .card {
   font-size: 1em;
