@@ -9,7 +9,7 @@ html {
   background-color: #ccc;
 }
 .card article img {
-  max-height: 15.5em;
+  max-height: 10em;
   float: right;
 }
 .card footer {
