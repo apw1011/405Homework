@@ -1,0 +1,15 @@
+html {
+  font-family: sans-serif;
+  background-color: red;
+  margin: 0;
+}
+p {
+  border-style: solid;
+  border-radius: 2.5rem;
+  border-color: maroon;
+  width: 250px;
+  height: 100px;
+  align-content: center;
+  padding: 0.5rem, 0.5rem, 0.5rem, 0.5rem;
+  color: pink;
+}
