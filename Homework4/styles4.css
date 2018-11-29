@@ -6,12 +6,9 @@
 }
 
 .box {
-  border: 2px;
-  border-color: black;
   background-color: lime;
   text-align: center;
   padding: 10px;
-  border radius: 1.5rem;
   flex: 0 0 19%;
   justify-content: space-around;
 }
