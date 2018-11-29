@@ -13,5 +13,8 @@
   padding: 10px;
   border radius: 1.5rem;
   flex: 0 0 20%;
-  justify-content: space-around;
+  justify-content: space-evenly;
+}
+.show5 {
+  padding-right: 35px;
 }
