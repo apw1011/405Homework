@@ -1,7 +1,9 @@
+* {
+  background-color: paleturquoise;
+}
 .bar {
   display: flex;
   width: 100%;
-  background-color: white;
   position: fixed;
 }
 
@@ -14,4 +16,12 @@
 }
 .show5 {
   padding-right: 35px;
+}
+.photos {
+  display: flex;
+  width: 100%;
+}
+.size {
+  flex: 0 0 20%;
+  max-height: 350px;
 }
