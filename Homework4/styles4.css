@@ -31,6 +31,7 @@
 .prose {
   display: flex;
   flex-direction: column;
+  flex-basis: 450px;
 }
 .says1 {
   border: 5px;
@@ -42,5 +43,4 @@
   padding: 25px;
   font-size: 24px;
   font-style: bold;
-  margin-right: 250px;
 }
