@@ -28,6 +28,11 @@
   max-height: 300px;
   max-width: 275px;
 }
+.prose {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 70%;
+}
 .says1 {
   border: 5px;
   border-style: solid;
