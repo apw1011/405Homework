@@ -29,7 +29,10 @@
   max-width: 275px;
 }
 .says1 {
-  border: 5px maroon;
+  border: 5px;
+  border-style: solid;
+  border-color: maroon;
+  align-content: center;
   border-width: 70%;
   border-radius: 2.5em;
   padding: 25px;
