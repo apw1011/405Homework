@@ -28,15 +28,11 @@
   max-height: 300px;
   max-width: 275px;
 }
-.prose {
-  border: 5px;
-  border-color: maroon;
+.says1 {
+  border: 5px maroon;
   border-width: 70%;
   border-radius: 2.5em;
-}
-.says1 {
-  text-align: center;
   padding: 25px;
-  font-size: 16px;
+  font-size: 24px;
   font-style: bold;
 }
