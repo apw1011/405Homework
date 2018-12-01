@@ -46,9 +46,9 @@
 }
 .stores {
   display: flex;
-  flex-direction: column;
 }
 .links {
+  flex-direction: column;
   border: 5px;
   border-style: solid;
   border-color: blue;
