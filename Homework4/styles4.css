@@ -51,15 +51,26 @@
 .links {
   border: 5px;
   border-style: solid;
-  border-color: white;
+  border-color: green;
   align-content: center;
   border-radius: 2.5em;
-  background-color: pink;
   padding: 35px;
   font-size: 32px;
   font-style: bold;
-  float: right;
   margin-right: 50px;
+}
+.one {
+  float: right;
   position: relative;
-  bottom: 600px;
+  bottom: 550px;
+}
+.two {
+  float: right;
+  position: relative;
+  bottom: 400px;
+}
+.three {
+  float: right;
+  position: relative;
+  bottom: 250px;
 }
