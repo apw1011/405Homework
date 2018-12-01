@@ -46,19 +46,15 @@
 }
 .stores {
   display: flex;
+  flex-direction: column;
 }
 .links {
-  flex-direction: column;
   border: 5px;
   border-style: solid;
   border-color: blue;
-  color: red;
   align-content: center;
   border radius: 2.5em;
   padding: 35px;
   font-size: 32px;
   font-style: bold;
-  float: right;
-  position: relative;
-  bottom: 600px;
 }
