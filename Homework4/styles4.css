@@ -21,7 +21,7 @@
   display: flex;
   width: 100%;
   padding-top: 85px;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 .size {
   flex: 0 0 18%;
