@@ -121,5 +121,6 @@
   border-radius: 2.5em;
   padding: 25px;
   font-size: 24px;
-  font-style: bold;
+  font-style: bolder;
+  margin-top: 100px;
 }
