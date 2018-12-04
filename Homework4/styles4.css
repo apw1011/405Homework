@@ -1,5 +1,5 @@
 * {
-  background-color: paleturquoise;
+  background-color: aquamarine;
 }
 .bar {
   display: flex;
@@ -41,7 +41,7 @@
   border-radius: 2.5em;
   padding: 25px;
   font-size: 24px;
-  font-style: bold;
+  font-weight: bold;
   margin-right: 400px;
 }
 .stores {
@@ -56,7 +56,7 @@
   border-radius: 2.5em;
   padding: 35px;
   font-size: 32px;
-  font-style: bold;
+  font-weight: bold;
   margin-right: 50px;
 }
 .one {
@@ -121,6 +121,6 @@
   border-radius: 2.5em;
   padding: 25px;
   font-size: 24px;
-  font-style: bolder;
+  font-weight: bold;
   margin-top: 100px;
 }
