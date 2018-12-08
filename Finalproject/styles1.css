@@ -1,0 +1,10 @@
+* {
+  background-color: burlywood;
+}
+# titler {
+  color: forestgreen;
+  text-align: center;
+  font-size: 48px;
+  text-shadow: darkseagreen 5px 5px 5px;
+  font-family: fantasy;
+}
