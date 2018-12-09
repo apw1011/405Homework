@@ -26,8 +26,14 @@ body {
   border-radius: 3em;
 }
 .myown {
-  padding: 25px;
+  padding: 15px;
   display: flex;
   width: 100%;
-  justify-content: space-between;
+  justify-content: space-around;
+}
+.blue {
+  max-width: 45%;
+}
+.red {
+  max-width: 45%;
 }
