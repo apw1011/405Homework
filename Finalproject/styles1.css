@@ -30,10 +30,12 @@ body {
   display: flex;
   width: 100%;
   justify-content: space-around;
+  position: relative;
+  bottom: 225px;
 }
 .blue {
   max-width: 45%;
 }
 .red {
-  max-width: 45%;
+  max-width: 50%;
 }
