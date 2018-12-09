@@ -41,7 +41,7 @@ body {
 }
 .location {
   border width: 100%;
-  align content: center;
+  align-content: center;
   font-size: 32px;
   color: darkblue;
   border: 5px;
@@ -53,4 +53,10 @@ body {
   border-radius: 3em;
   position: relative;
   bottom: 155px;
+}
+#next {
+  font-family: fantasy;
+  text-align: center;
+  font-size: 64px;
+  color: forestgreen;
 }
