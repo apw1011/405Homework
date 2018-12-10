@@ -1,0 +1,27 @@
+body {
+  background-color: burlywood;
+}
+#titler {
+  color: forestgreen;
+  text-align: center;
+  font-size: 128px;
+  text-shadow: mediumseagreen 5px 5px 5px;
+  font-family: fantasy;
+  position: relative;
+  bottom: 150px;
+}
+.purchase {
+  border-width: 100%;
+  align-content: center;
+  font-size: 32px;
+  color: darkblue;
+  border: 5px;
+  border-style: solid;
+  border-color: firebrick;
+  padding: 25px;
+  margin: 25px;
+  margin-top: 0;
+  position: relative;
+  bottom: 275px;
+  border-radius: 3em;
+}
