@@ -15,7 +15,7 @@ body {
   align-content: center;
   font-size: 32px;
   color: darkblue;
-  border: 5px;
+  border: 10px;
   border-style: solid;
   border-color: firebrick;
   padding: 25px;
@@ -23,7 +23,7 @@ body {
   margin-top: 0;
   position: relative;
   bottom: 275px;
-  border-radius: 3em;
+  border-radius: 5em;
 }
 .pictures {
     padding: 0;
