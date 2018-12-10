@@ -25,3 +25,11 @@ body {
   bottom: 275px;
   border-radius: 3em;
 }
+.pictures {
+    padding: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    position: relative;
+    bottom: 225px;
+}
