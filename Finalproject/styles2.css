@@ -33,3 +33,9 @@ body {
     position: relative;
     bottom: 225px;
 }
+.restored {
+  max-height: 300px;
+}
+.dusty {
+  max-height: 300px;
+}
