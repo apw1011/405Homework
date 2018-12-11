@@ -73,3 +73,9 @@ body {
   position: relative;
   bottom: 175px;
 }
+.yellow {
+  margin-right: 35px;
+}
+.orange {
+  margin-left: 35px;
+}
