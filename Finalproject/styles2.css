@@ -64,9 +64,10 @@ body {
   justify-content: space-around;
 }
 .lambos {
+  width: 400px;
+  margin: 0 auto;
+  height: 350px;
   display: flex;
-  padding: 0;
-  max-height: 450px;
   justify-content: space-around;
   position: relative;
   bottom: 175px;
