@@ -63,3 +63,12 @@ body {
   bottom: 145px;
   justify-content: space-around;
 }
+.lambos {
+  display: flex;
+  padding: 0;
+  width: 100%;
+  max-height: 450px;
+  justify-content: space-around;
+  position: relative;
+  bottom: 175px;
+}
