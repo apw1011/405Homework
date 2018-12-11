@@ -68,14 +68,18 @@ body {
   margin: 0 auto;
   height: 350px;
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-around;
   padding: 45px;
   position: relative;
   bottom: 175px;
 }
 .yellow {
   margin: 100px;
+  position: relative;
+  right: 50px;
 }
 .orange {
   margin: 100px;
+  position: relative;
+  left: 50px;
 }
