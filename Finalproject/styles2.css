@@ -68,7 +68,7 @@ body {
   margin: 0 auto;
   height: 350px;
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start;
   padding: 45px;
   position: relative;
   bottom: 175px;
