@@ -68,7 +68,7 @@ body {
   margin: 0 auto;
   height: 350px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   position: relative;
   bottom: 175px;
 }
