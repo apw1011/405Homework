@@ -68,7 +68,8 @@ body {
   margin: 0 auto;
   height: 350px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  padding: 45px;
   position: relative;
   bottom: 175px;
 }
