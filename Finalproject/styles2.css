@@ -64,22 +64,17 @@ body {
   justify-content: space-around;
 }
 .lambos {
-  width: 400px;
   margin: 0 auto;
-  height: 350px;
+  height: 400px;
   display: flex;
   justify-content: space-around;
   padding: 45px;
   position: relative;
   bottom: 175px;
 }
-.yellow {
-  margin: 100px;
-  position: relative;
-  right: 50px;
+.blue {
+  width: 45%;
 }
 .orange {
-  margin: 100px;
-  position: relative;
-  left: 50px;
+  width: 45%;
 }
