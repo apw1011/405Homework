@@ -24,3 +24,12 @@ body {
   bottom: 275px;
   border-radius: 5em;
 }
+.places {
+  display: flex;
+  padding: 100px;
+  font-size: 32px;
+  color: royalblue;
+  position: relative;
+  bottom: 175px;
+  justify-content: space-around;
+}
