@@ -49,3 +49,11 @@ body {
   max-height: 525px;
   max-width: 625px;
 }
+.again {
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  padding: 45px;
+  bottom: 365px;
+  justify-content: space-around;
+}
