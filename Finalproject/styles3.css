@@ -42,10 +42,10 @@ body {
   justify-content: space-around;
 }
 .green {
-  max-height: 400px;
-  max-width: 450px;
+  max-height: 500px;
+  max-width: 575px;
 }
 .orange {
-  max-height: 400px;
-  max-width: 450px;
+  max-height: 500px;
+  max-width: 575px;
 }
