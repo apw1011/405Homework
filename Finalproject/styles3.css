@@ -38,14 +38,14 @@ body {
   position: relative;
   margin: 0 auto;
   padding: 45px;
-  bottom: 265px;
+  bottom: 345px;
   justify-content: space-around;
 }
 .green {
-  max-height: 500px;
-  max-width: 575px;
+  max-height: 525px;
+  max-width: 625px;
 }
 .orange {
-  max-height: 500px;
-  max-width: 575px;
+  max-height: 525px;
+  max-width: 625px;
 }
