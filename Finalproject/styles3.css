@@ -33,3 +33,19 @@ body {
   bottom: 285px;
   justify-content: space-around;
 }
+.Jaguars {
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  padding: 45px;
+  bottom: 265px;
+  justify-content: space-around;
+}
+.green {
+  max-height: 400px;
+  max-width: 450px;
+}
+.orange {
+  max-height: 400px;
+  max-width: 450px;
+}
