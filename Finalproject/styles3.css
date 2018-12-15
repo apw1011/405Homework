@@ -27,7 +27,7 @@ body {
 .places {
   display: flex;
   padding: 100px;
-  font-size: 40px;
+  font-size: 32px;
   color: royalblue;
   position: relative;
   bottom: 285px;
@@ -52,7 +52,7 @@ body {
 .again {
   display: flex;
   padding: 100px;
-  font-size: 40px;
+  font-size: 32px;
   color: royalblue;
   position: relative;
   bottom: 325px;
@@ -69,6 +69,6 @@ body {
   margin: 25px;
   margin-top: 0;
   position: relative;
-  bottom: 345px;
+  bottom: 315px;
   border-radius: 5em;
 }
