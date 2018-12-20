@@ -75,3 +75,10 @@ body {
   position: relative;
   bottom: 175px;
 }
+.address {
+  margin-left: 350px;
+  margin-bottom: 50px;
+  font-size: 24px;
+  position: relative;
+  bottom: 175px;
+}
