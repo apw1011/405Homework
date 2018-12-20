@@ -24,3 +24,19 @@ body {
   bottom: 275px;
   border-radius: 5em;
 }
+.cars {
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  padding: 45px;
+  bottom: 315px;
+  justify-content: space-around;
+}
+.orange {
+  max-height: 525px;
+  max-width: 625px;
+}
+.grey {
+  max-height: 525px;
+  max-width: 625px;
+}
