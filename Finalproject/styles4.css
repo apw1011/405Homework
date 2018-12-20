@@ -95,7 +95,7 @@ body {
   position: relative;
   bottom: 175px;
 }
-#topageone {
+.pageone {
   font-family: fantasy;
   text-align: center;
   font-size: 64px;
